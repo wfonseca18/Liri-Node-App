@@ -4,8 +4,8 @@ Client ID fc36919ffecd449191281d0f47e3af2c
 Client Secret 34a54f1830b84077a5dbf3cfe1611cd9
 
 OMDB
-Key 413e79dd
-Use http://www.omdbapi.com/?i=tt3896198&apikey=413e79dd
+Key trilogy
+Use http://www.omdbapi.com/?i=tt3896198&apikey=trilogy
 
 Bands In Town
 Key codingbootcamp
